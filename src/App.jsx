@@ -5,7 +5,7 @@ import About from "./components/About";
 import Skill from "./components/Skill";
 import Work  from "./components/Work";
 //import Contact from"./components/Contact";
-import Footer from "./components/Footer";
+
 import Footer1 from "./components/Footer1";
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
       email:"Harpreet@gmail.com"
 
     }
-    
+
     ];
 
   return (
