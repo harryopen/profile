@@ -11,7 +11,7 @@ import Footer1 from "./components/Footer1";
 function App() {
   const Contact =[
     { id:'1',
-      name:"Harpreet singh ",
+      name:"Harpreet singh",
       email:"malvia@gmail.com",
     },
     {
@@ -24,19 +24,17 @@ function App() {
       id:'3',
       name :"Harpreet singh",
       email:"Harpreet@gmail.com"
-
     }
-
-    ];
+  ];
 
   return (
    <>
-   <Navbar/>
-   <Home />
-   <About />
-   <Skill/>
-   <Work />
-   <Footer1/>
+    <Navbar/>
+    <Home />
+    <About />
+    <Skill/>
+    <Work />
+    <Footer1/>
    </>
   )
 }
