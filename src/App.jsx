@@ -16,13 +16,13 @@ function App() {
     },
     {
       id:'2',
-      name :"Gurpreet singh ",
+      name :"Gurpreet singh",
       email:"Gurpreet@gmail.com"
 
     },
     {
       id:'3',
-      name :"Harpreet singh ",
+      name :"Harpreet singh",
       email:"Harpreet@gmail.com"
 
     }
